@@ -1,0 +1,9 @@
+5.1
+Liczba mieszkańców regionu A	Liczba mieszkańców regionu B	Liczba mieszkańców regionu C	Liczba mieszkańców regionu D
+33929579	                    41736619	                    57649017	                    36530387
+5.2
+Liczba wojewodztw w kraju: 19
+A  B    C   D
+3	4	8	4
+5.3
+
