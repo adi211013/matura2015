@@ -4,4 +4,5 @@
 500 - podzielne przez 2
 123 - podzielne przez 8
 4.3
-
+min - 859
+max - 925
