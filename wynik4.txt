@@ -1,4 +1,7 @@
 4.1
 422
 4.2
+500 - podzielne przez 2
+123 - podzielne przez 8
+4.3
 
