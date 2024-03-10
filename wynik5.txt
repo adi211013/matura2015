@@ -6,4 +6,9 @@ Liczba wojewodztw w kraju: 19
 A  B    C   D
 3	4	8	4
 5.3
-
+ludnosc w 2025
+125932230
+najwiecej mieszkańców
+W12C 16699503
+efekty przeludnienia:
+18
